@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Name randomizer</title>
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="js/jquery-1.11.3.min.js"></script>
+</head>
+<body>
+<noscript>Для полной функциональности этого сайта необходимо включить JavaScript</noscript>
+<script src="js/getData.js"></script>
+<div id="result"></div>
+<div id="cookie"></div>
+<div id="number"></div>
+</body>
+</html>
